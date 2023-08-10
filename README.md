@@ -11,8 +11,8 @@ The second one is by using the Postman application, we can put the JSON file aft
 
 The API is developed using the Flask framework and their post method for the input data and the frontend is designed using HTML and CSS.
 
-================================================================================
+===========================================================================
 
 THANKS FOR VISITING!
 
-================================================================================
+===========================================================================
